@@ -1,0 +1,40 @@
+MPLINK 4.49, Linker
+Linker Map File - Created Sun Mar 09 01:04:34 2025
+
+                                 Section Info
+                  Section       Type    Address   Location Size(Bytes)
+                ---------  ---------  ---------  ---------  ---------
+                   .org_0       code   0x000000    program   0x000000
+                   .org_1       code   0x000000    program   0x000028
+     .config_2007_EJER1.O       code   0x002007    program   0x000002
+
+
+
+                              Program Memory Usage 
+                               Start         End      
+                           ---------   ---------      
+                            0x000000    0x000013      
+                            0x002007    0x002007      
+            21 out of 8454 program addresses used, program memory utilization is 0%
+
+
+
+                              Symbols - Sorted by Name
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+               CONFIGURAR   0x000001    program     static E:\AUXILIAR\SEM 1-2025 AUX MICRO\CLASE_2\EJER1.asm
+                     MAIN   0x00000a    program     static E:\AUXILIAR\SEM 1-2025 AUX MICRO\CLASE_2\EJER1.asm
+             PRENDER_TODO   0x00000e    program     static E:\AUXILIAR\SEM 1-2025 AUX MICRO\CLASE_2\EJER1.asm
+             PRENDE_PARES   0x000011    program     static E:\AUXILIAR\SEM 1-2025 AUX MICRO\CLASE_2\EJER1.asm
+
+
+
+                              Symbols - Sorted by Address
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+               CONFIGURAR   0x000001    program     static E:\AUXILIAR\SEM 1-2025 AUX MICRO\CLASE_2\EJER1.asm
+                     MAIN   0x00000a    program     static E:\AUXILIAR\SEM 1-2025 AUX MICRO\CLASE_2\EJER1.asm
+             PRENDER_TODO   0x00000e    program     static E:\AUXILIAR\SEM 1-2025 AUX MICRO\CLASE_2\EJER1.asm
+             PRENDE_PARES   0x000011    program     static E:\AUXILIAR\SEM 1-2025 AUX MICRO\CLASE_2\EJER1.asm
+
+
